@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|c:\\users\\luka\\desktop\\docker-setup\\back\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|c:\\users\\luka\\desktop\\docker-setup\\back\\back\\back\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|solutionrelative:back\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|c:\\users\\luka\\desktop\\docker-setup\\back\\back\\back\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|solutionrelative:back\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|c:\\users\\luka\\desktop\\docker-setup\\back\\back\\back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BD02-ACE3-4A9E-92F6-641817B07374}|back\\back.csproj|solutionrelative:back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 175,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044003}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044004}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044005}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044011}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044002}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "back\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "back\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:43:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Models\\Weather.cs",
+              "RelativeDocumentMoniker": "back\\Models\\Weather.cs",
+              "ToolTip": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Models\\Weather.cs",
+              "RelativeToolTip": "back\\Models\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:43:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:13:31.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Luka\\Desktop\\docker-setup\\back\\back\\back\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "back\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:50:02.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
