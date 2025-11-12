@@ -3,7 +3,7 @@ name: Deploy Backend
 on:
   push:
     branches:
-      - main  # ili master, zavisi od tvoje glavne grane
+      - master  # ili main, zavisi od tvoje glavne grane
 
 jobs:
   deploy:
