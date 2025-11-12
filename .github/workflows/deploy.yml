@@ -35,7 +35,7 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/weather-frontend:latest
 
-      - name: Deploy on remote server (via password)
+      - name: Deploy on remote server
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.SSH_HOST }}
